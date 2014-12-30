@@ -1,0 +1,2 @@
+generator-inmagine-webstarter
+=============================
